@@ -39,6 +39,7 @@ void BaseSystem_SetHome()
 	}
 }
 
+
 void BaseSystem_RunPointMode()
 {
 	static enum {idle, RunPointMode} state = idle;
